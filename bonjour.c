@@ -2,4 +2,5 @@
 
 int main(int argc, char *argv[]){
  printf("Hello, there were %d arguments entered!", argc);
+ return 0;
 }
